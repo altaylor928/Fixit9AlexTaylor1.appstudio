@@ -1,4 +1,4 @@
-//changed appearance
+//changed appearance (blue)
 drp1.onclick=function(s){
   if (typeof(s) == "object"){  // means control clicked but no selection made yet
     return                     // do nothing
@@ -8,7 +8,7 @@ drp1.onclick=function(s){
   }
 }
 
-//changed font style
+//changed font style (italics and bold)
 rdo1.onclick=function(){
    console.log(`You picked ${$("input[name=rdo1]:checked").prop("value")}`)
    console.log(`The value is ${rdo1.value}`)
@@ -18,7 +18,7 @@ rdo1.onclick=function(){
       NSB.MsgBox("You picked Item #2!")
 }
 
-//changed appearance
+//changed appearance (green)
 ham1.onclick=function(s){    
     if (typeof(s) == "object") {
        return
@@ -40,7 +40,7 @@ ham1.onclick=function(s){
     }
 }
 
-//changed font style
+//changed font style (thinner font)
 cbox1.onclick=function(){
    console.log(`You picked ${$("input[name=cbox1]:checked").prop("value")}`)
    console.log(`The value is ${cbox1.value}`)

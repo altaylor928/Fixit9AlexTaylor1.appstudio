@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
-  "backgroundColor": "",
+  "backgroundColor": "#747474",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 130,
+  "height": 220,
   "hidden": "",
   "id": "lblMadLibs",
   "labelStyle": "text",
-  "left": 8,
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -44,5 +44,5 @@
   "style": "",
   "top": 244,
   "value": "",
-  "width": 226
+  "width": 235
 }

@@ -10,4 +10,3 @@ btnSubmit1.onclick=function(){
     members.push(inptFirstName.value)
   }
 }
-
